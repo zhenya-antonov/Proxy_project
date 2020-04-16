@@ -1,0 +1,28 @@
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.deps.json
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.DAL.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.DAL.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csprojAssemblyReference.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csproj.CoreCompileInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.AssemblyInfoInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.AssemblyInfo.cs
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csproj.CopyComplete
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.deps.json
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.BLL.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.DAL.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.DAL.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csprojAssemblyReference.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csproj.CoreCompileInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.AssemblyInfoInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.AssemblyInfo.cs
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.csproj.CopyComplete
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.BLL\obj\Debug\netstandard2.0\UserManager.BLL.pdb

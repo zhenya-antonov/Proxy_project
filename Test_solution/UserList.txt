@@ -1,0 +1,2 @@
+Ivan;Ivanov;Admin;01010;1
+Petr;Ivanov;User;1;1

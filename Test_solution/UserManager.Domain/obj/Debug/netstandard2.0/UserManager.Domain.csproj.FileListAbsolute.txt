@@ -1,0 +1,17 @@
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.deps.json
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.csproj.CoreCompileInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.AssemblyInfoInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.AssemblyInfo.cs
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.deps.json
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.csprojAssemblyReference.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.csproj.CoreCompileInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.AssemblyInfoInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.AssemblyInfo.cs
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.Domain\obj\Debug\netstandard2.0\UserManager.Domain.pdb

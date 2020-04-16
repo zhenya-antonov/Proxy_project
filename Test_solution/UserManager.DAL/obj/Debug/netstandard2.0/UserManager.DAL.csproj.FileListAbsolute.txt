@@ -1,0 +1,24 @@
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.deps.json
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csprojAssemblyReference.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csproj.CoreCompileInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.AssemblyInfoInputs.cache
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.AssemblyInfo.cs
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csproj.CopyComplete
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.dll
+D:\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.deps.json
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.DAL.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.Domain.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\bin\Debug\netstandard2.0\UserManager.Domain.pdb
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csprojAssemblyReference.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csproj.CoreCompileInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.AssemblyInfoInputs.cache
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.AssemblyInfo.cs
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.csproj.CopyComplete
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.dll
+D:\4 КУРС\СВП Лаби\Labs\Test_Solution\UserManager.DAL\obj\Debug\netstandard2.0\UserManager.DAL.pdb
